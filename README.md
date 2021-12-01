@@ -21,5 +21,3 @@ In this project, our dataset contain index prices. Each row in the file contains
 | Adj Close | The daily closing price, adjusted retroactively to include any corporate actions. |
 
 You'll be using this dataset to develop a predictive model. You'll train the model with data from *1950-2012* and try to make predictions from *2013-2015*.
-
-## Overview of the dataset
